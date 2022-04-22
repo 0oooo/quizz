@@ -22,7 +22,7 @@ python3 -m venv myvirtualenvironmentwithalongname
 
 To be honest, I'm not fully full on with virtual environment, my own app is confusing with a quizzenv, a quizz parent folder, a quizz python project with its own quizz subdirectory, and the quizzapp app... I mean.. That's pretty ugly. But let's roll with it
 
-Also, about virtual environment, if you like to read it's [here](https://realpython.com/python-virtual-environments-a-primer/) or if you prefer to [listen](https://realpython.com/lessons/what-virtual-environments-are-good-for/)
+Also, about virtual environment, if you like to read it's [here](https://realpython.com/python-virtual-environments-a-primer/) or if you prefer to [listen](https://realpython.com/lessons/what-virtual-environments-are-good-for/) and you have 20 pounds to spare per month. 
 
 ## Let's go gurls!
 
