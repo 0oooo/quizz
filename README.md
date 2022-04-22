@@ -15,8 +15,10 @@ Project to build a python app (unsure yet of frontend) to quizz common dev inter
 Create a virtual environment in a desired directory
 
 For example
-``cd sys32
-python3 -m venv myvirtualenvironmentwithalongname``
+```
+cd sys32
+python3 -m venv myvirtualenvironmentwithalongname
+```
 
 To be honest, I'm not fully full on with virtual environment, my own app is confusing with a quizzenv, a quizz parent folder, a quizz python project with its own quizz subdirectory, and the quizzapp app... I mean.. That's pretty ugly. But let's roll with it
 
