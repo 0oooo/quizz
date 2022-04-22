@@ -32,7 +32,7 @@ Run `python manage.py makemigrations` to create migrations and prepare the datab
 
 Run `python manage.py migrate` to apply those changes to the database.
 
-Honestly, what is dat? Don't hesitate to share your thoughts cause I don't understand and I am tempted to just create an alias to do them both with one word
+Honestly, (what is dat)[https://youtu.be/ADtTuczUUvE]? Don't hesitate to share your thoughts cause I don't understand and I am tempted to just create an alias to do them both with one word
 
 Just having to type python manage.py everytime I want to do something...... what am I, a writer?
 
