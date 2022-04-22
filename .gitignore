@@ -1,0 +1,5 @@
+quizzenv/bin
+quizzenv/include
+quizzenv/lib
+quizzenv/pyvenv.cfg
+quizzenv/quizz/**.sqlite3
